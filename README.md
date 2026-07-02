@@ -34,7 +34,7 @@
 - Slicers
 
 ## Dashboard Preview
-![Dashboard](Pizza%20Sales%20Dashboard.PNG)
+![Dashboard](Pizzza%20Sales%20Dashboard.PNG)
 
 ## Key Performance Indicators (KPIs)
 
