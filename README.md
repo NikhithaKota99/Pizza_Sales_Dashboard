@@ -56,7 +56,7 @@
 - Top 5 Best-Selling Pizzas
 - Bottom 5 Least-Selling Pizzas
 - Interactive Slicers for dynamic filtering
-- 
+  
 ## Dataset
 
   The analysis is based on a pizza sales dataset containing one year of transactional sales data.
